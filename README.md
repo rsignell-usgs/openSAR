@@ -27,3 +27,6 @@ in all python programs and notebooks
 
 * Training
   * [Material and Instructions](TRAINING_MATERIAL.md) for [EBD](https://earthbigdata.com)/[SERVIR](https://www.servirglobal.net/) Training Courses
+
+#### Open in AWS SageMaker Studio Lab
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://github.com/rsignell-usgs/openSAR/blob/master/notebooks/global_coherence/global_coherence_backscatter_sentinel1_kerchunk.ipynb)
